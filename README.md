@@ -11,7 +11,7 @@
 
 - 📫 Click [here]() to contact me!
 
-<h1 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h1>
+<h1 align="center"> Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px" margin-bottom="50px"></h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dhruv-shah-824678183/" target="_blank">
