@@ -11,6 +11,10 @@
 
 - 📫 Click [here]() to contact me!
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center"> Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px" margin-bottom="50px"></h1>
 
 <div align="center">
