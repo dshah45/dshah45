@@ -50,7 +50,8 @@
 <h2 align="center"> My GitHub Stats 📈 </h2>
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=dshah45&icon=0&color=5)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{dshah45}/count.svg)
+
 
 </div>
 <p align="center" width="100%">
