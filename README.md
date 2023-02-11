@@ -50,8 +50,7 @@
 <h2 align="center"> My GitHub Stats 📈 </h2>
 <div align="center">
 
-
-   <img src="https://komarev.com/ghpvc/?username=dshah45&label=Profile%20views&color=0e75b6&style=flat" alt="dshah45" /> 
+[![](https://visitcount.itsvg.in/api?id=dshah45&icon=0&color=5)](https://visitcount.itsvg.in)
 
 </div>
 <p align="center" width="100%">
@@ -60,8 +59,6 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dshah45&show_icons=true&locale=en&layout=compact&theme=github_dark&border_radius=5" alt="dshah45" />
   </span>
 </p>
-<p align="center">
-  <img height="265em" src="https://activity-graph.herokuapp.com/graph?username=dshah45&bg_color=252525&color=1e90ff&line=1e90ff&point=bcd2e8&area=true&hide_border=true" />
-</p>
+
 
 
