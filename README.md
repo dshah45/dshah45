@@ -47,19 +47,4 @@
  
  </p>
 <br />
-<h2 align="center"> My GitHub Stats 📈 </h2>
-<div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/{dshah45}/count.svg)
-
-
-</div>
-<p align="center" width="100%">
-  <span>
- <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=dshah45&show_icons=true&locale=en&theme=github_dark&border_radius=5" alt="dshah45" />
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dshah45&show_icons=true&locale=en&layout=compact&theme=github_dark&border_radius=5" alt="dshah45" />
-  </span>
-</p>
-
-
 
